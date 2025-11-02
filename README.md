@@ -1,3 +1,3 @@
 # my-first-pipeline
 this is my first ci/cd project
-by Muhammad Umer on Nov 2
+by Muhammad Umer on Nov
